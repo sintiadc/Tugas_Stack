@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1669532622 source:e:\semester 3\codebloks\tp mod10\tp_mod10_1301213440_if4509\main.cpp
+	"stack.h"
+	<iostream>
+
+1669911308 source:e:\semester 3\codebloks\tp mod10\tp_mod10_1301213440_if4509\stack.cpp
+	"stack.h"
+
+1669911308 e:\semester 3\codebloks\tp mod10\tp_mod10_1301213440_if4509\stack.h
+	<iostream>
+
